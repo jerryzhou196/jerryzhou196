@@ -7,5 +7,5 @@
                                 .-'|  _.|  |    ||   '-__  |   |  |    ||      |
                                 |' | |.    |    ||       | |   |  |    ||      |
                              ___|  '-'     '    ""       '-'   '-.'    '`      |____
-                                   Studying CS at the University of Waterloo. 
+                                   hi loves. i study CS at the University of Waterloo. 
 ```
